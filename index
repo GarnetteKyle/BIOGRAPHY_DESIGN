@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="refresh" content="1800" />
+    <title>BIOGRAPHY</title>
+  </head>
+
+  <body>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <div class="page">
+      <div class="title-container">
+        <h1>A life in Progress</h1>
+      </div>
+
+      <hr />
+      <br />
+
+      <div class="content">
+        <div class="childhood">
+          <h2>Childhood Years</h2>
+          <p title="This is my childhood story.">
+            <sup>1</sup>Hi, my name is <strong>Garnette Kyle Valenzuela</strong>, I was born and raised in <b>Tondo, Manila</b>, and I can’t wait to leave this place. 
+                    <sup>2</sup>My friends always tease me because of my name. 
+                    <sup>3</sup>Some say I was a basketball player because my name is similar to Kevin Garnett. 
+                    <sup>4</sup>And some say my name is derived from <i>Garnet  Stone</i>. 
+                    <sup>5</sup>But my name is just literally a <em>logical</em> mix of my parents’ names. 
+                    <sup>6</sup>When I was a kid, I always put myself in trouble. 
+                    <sup>7</sup>There was an accident where I was running and tripped, and my left forearm got sliced by an iron sheet. 
+                    <sup>8</sup>Another time, I was playing with my classmates and tripped again, and my tooth broke. 
+                    <sup>9</sup>I also remember the day my friend almost hit my eye with a pencil. 
+                    <sup>10</sup>I can say that I had a happy childhood. 
+                    <sup>11</sup>But of course, there are always two sides of the coin. 
+                    <sup>12</sup>I also experienced bullying because I was overweight back then. 
+                    <sup>13</sup>I have friends, but there are very few classmates who, for some reason, love bullying. 
+                    <sup>14</sup>I always got involved in fights because of it. 
+                    <sup>15</sup>But I had already built the character of a nice, kind, quiet, and gentle boy in my teachers’ and classmates’ minds, that’s why I was never scolded by our teachers or had a bad record in the Guidance Office. 
+                    <sup>16</sup>I hope they’re doing fine. 
+                    <sup>17</sup>We were kids back then, we make mistakes and still have a lot of lessons to learn. 
+                    <sup>18</sup>Looking back, those early scrapes taught me resilience. 
+                    <sup>19</sup>I learned that <q>pain is temporary</q> but memories last. 
+                    <sup>20</sup>This foundation shaped who I am today.
+          </p>
+        </div>
+
+        <br />
+        <div class="teenage">
+          <h2>Teenage Years</h2>
+          <p title="This is my teenage years.">
+            
+            <sup>1</sup>I studied at <b>Jose Abad Santos High School</b> in <b>Binondo, Manila</b>. 
+                    <sup>2</sup>When I was in 7th grade, I had a lot of friends. 
+                    <sup>3</sup>We always played mobile games every vacant time, walking back home together after class. 
+                    <sup>4</sup>But in 8th grade, I felt like I didn’t belong. 
+                    <sup>5</sup>I only had two friends, while the whole class was always together and getting along with each other. 
+                    <sup>6</sup>That’s why at that time, all I did was play online games. 
+                    <sup>7</sup>The school year was still ongoing when COVID came. 
+                    <sup>8</sup>Almost my whole junior high school was conducted online. 
+                    <sup>9</sup>I didn’t know what to feel at that time, whether to be happy to avoid socializing with people or sad because I might have missed one of the happiest stages of my life. 
+                    <sup>10</sup>After 10th grade, everything started to go back to normal. 
+                    <sup>11</sup>Since I spent the whole time playing online games, I took ICT–Computer Programming as my senior high school strand and track. 
+                    <sup>12</sup>I told myself that I cannot live isolating myself; that’s why I started socializing and making friends with everyone, and it went well. 
+                    <sup>13</sup>I met a lot of friends. 
+                    <sup>14</sup>I really loved my senior high school days as they were one of the happiest moments of my life. 
+                    <sup>15</sup>But it is also one of the stages of my life that I want to forget. 
+                    <sup>16</sup>Things turned bitter. 
+                    <sup>17</sup>After graduation, I cut ties. 
+                    <sup>18</sup>I just hope that in college, I will build something again and move forward in life. 
+                    <sup>19</sup>I want to leave those bitter <s>memories</s> behind. 
+                    <sup>20</sup>I am ready for a <u>new chapter</u>.
+          </p>
+        </div>
+
+        <br />
+        <div class="college">
+          <h2>College Years</h2>
+          <p title="This is my first two years in college.">
+            <sup>1</sup>College came, and I still can’t believe that I will be studying at the <b>University of the East</b> under the <b>BSCS</b> program. 
+                    <sup>2</sup>I was considering studying at cheap private colleges, but my aunts insisted that I study here instead. 
+                    <sup>3</sup>I did try to apply to state universities, but I was only able to take the entrance exam at PLM. 
+                    <sup>4</sup>I still remember putting a sad emoticon on the back of my scratch paper because I knew deep inside that I had flunked the exam. 
+                    <sup>5</sup>I don’t even know why I felt sad, knowing that I hadn’t even spent a single day reviewing. 
+                    <sup>6</sup>Then I received an email from PLM, and no, it was not a plot twist showing that I passed. 
+                    <sup>7</sup>It was just to show me that I really failed the exam. 
+                    <sup>8</sup>Now, let's focus on the actual college experience. 
+                    <sup>9</sup>On my first day of class, I entered the room knowing I was early, but for some reason, there was a professor sitting at the front. 
+                    <sup>10</sup>I asked if I was in the correct section, and I was. 
+                    <sup>11</sup>Then, our professor realized that we were not supposed to meet that day, it was supposed to be the next day. 
+                    <sup>12</sup>It was so funny that it happened during the first day that I remember it up to this day. 
+                    <sup>13</sup>Moving forward, I met a lot of friends, especially during my NSTP-ROTC days. 
+                    <sup>14</sup>I experienced many new things I had never tried before, traveling to far places, eating outside, and just enjoying life. 
+                    <sup>15</sup>College is tiring, both physically and mentally. 
+                    <sup>16</sup>To be honest, I sometimes feel like I’m getting left behind, doubting if I really belong in this program. 
+                    <sup>17</sup>But I know deep inside that it is part of the process, and I won’t let it consume me or bring me down. 
+                    <sup>18</sup>Yes, college is tiring, but that is also where you feel alive. 
+                    <sup>19</sup>I still make mistakes, and sometimes I get frustrated, but I try to laugh at myself. 
+                    <sup>20</sup>I always think of the life I want, so I will try my best and keep moving forward.
+          </p>
+        </div>
+      </div>
+
+      <br />
+      <hr />
+    </div>
+  </body>
+</html>
