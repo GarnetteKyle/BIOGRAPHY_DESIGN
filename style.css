@@ -1,0 +1,97 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f7f7f7;
+  color: #333333;
+}
+
+.page {
+  width: 850px;
+  margin: 40px auto;
+  padding: 30px;
+  background-color: #ffffff;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 10px;
+}
+
+.title-container h1 {
+  font-family: Garamond, Palatino, Georgia, serif;
+  font-size: 28px;
+  color: #333333;
+  margin: 0;
+  text-transform: lowercase;
+  font-variant: small-caps;
+}
+
+nav {
+  font-family: Futura, Arial, sans-serif;
+  font-size: 12px;
+  letter-spacing: 1px;
+}
+
+nav span {
+  margin-left: 15px;
+  color: #b0b0b0;
+  text-transform: uppercase;
+}
+
+hr {
+  border: 0;
+  height: 2px;
+  background-color: #009688;
+  margin-bottom: 30px;
+}
+
+.content {
+  font-family: Futura, Arial, "Helvetica World", sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+h2 {
+  font-family: Garamond, Palatino, Georgia, serif;
+  font-size: 22px;
+  margin: 0 0 10px 0;
+  color: #009688;
+}
+
+.childhood, .teenage, .college {
+  padding: 25px;
+  margin-bottom: 25px;
+  border: 1px solid #b0b0b0;
+}
+
+.childhood {
+  background-color: #E0F2F1;
+  border-left: 5px solid #009688;
+}
+
+.teenage {
+  background-color: #D2DCB6;
+  border-left: 5px solid #b0b0b0;
+}
+
+.college {
+  background-color: #f7f7f7;
+  border-left: 5px solid #333333;
+}
+
+.content p {
+  margin: 0;
+  text-align: justify;
+  text-indent: 50px;
+}
+
+strong, b {
+  color: #333333;
+}
+
+br {
+  display: none;
+}
